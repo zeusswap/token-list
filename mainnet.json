@@ -1,0 +1,133 @@
+{
+    "name": "ZEUS Swap Choices",
+    "timestamp": "2020-09-01T00:00:00+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/ZEUS.png",
+    "keywords": ["zeusswap", "default", "list"],
+    "tokens": [
+      {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "chainId": 1,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/USDT.png"
+      },
+      {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "chainId": 1,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/DAI.png"
+      },
+      {
+        "address": "0x20bf12A7bdb6d7B84069fb3b939892A301C981d1",
+        "chainId": 1,
+        "name": "ClassZZ",
+        "symbol": "CZZ",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/CZZ.png"
+      },
+      {
+        "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "chainId": 1,
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/LINK.png"
+      },
+      {
+        "address": "0x0dBB4b96a23Ea7943BB72a8F16cc2c248F372935",
+        "chainId": 1,
+        "name": "LightToken",
+        "symbol": "LIGHT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/LIGHT.png"
+      },
+      {
+        "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+        "chainId": 1,
+        "name": "CRO",
+        "symbol": "CRO",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/CRO.png"
+      },
+      {
+        "address": "0x6102407f07029892eb5ff02164adfafb85f4d222",
+        "chainId": 1,
+        "name": "Liberty Cash Plus",
+        "symbol": "LCS",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/LCS.png"
+      },
+      {
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "chainId": 1,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/UNI.png"
+      },
+      {
+        "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "chainId": 1,
+        "name": "SushiToken",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/SUSHI.png"
+      },
+      {
+        "address": "0xE945573F2Acdd9F7859116F2db90d0CEe8c3cA65",
+        "chainId": 1,
+        "name": "MuDan Chain",
+        "symbol": "MDL",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/MDL.png"
+      },
+      {
+        "address": "0x727ed22427e6148b0d1b97fc1e76ac82fc93b768",
+        "chainId": 1,
+        "name": "Aisa Ss",
+        "symbol": "AS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/AS.png"
+      },
+      {
+        "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "chainId": 1,
+        "name": "HuobiToken",
+        "symbol": "HT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/HT.png"
+      },
+      {
+        "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "chainId": 1,
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/OKB.png"
+      },
+      {
+        "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+        "chainId": 1,
+        "name": "Compound",
+        "symbol": "COMP",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/COMP.png"
+      },
+      {
+        "address": "0x031BBeCC1b4a541aA8170E3dFbbD51c279BF4368",
+        "chainId": 1,
+        "name": "Tigerwallet Token",
+        "symbol": "TWT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/TWT.png"
+      }
+    ]
+  }
