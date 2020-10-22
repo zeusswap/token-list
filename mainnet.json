@@ -128,6 +128,78 @@
         "symbol": "TWT",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/TWT.png"
+      },
+      {
+        "address": "0xD944Dac1a03db027AcC5618095251d5E90C4A37b",
+        "chainId": 1,
+        "name": "GAIA",
+        "symbol": "GAIA",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/GAIA.png"
+      },
+      {
+        "address": "0x8b77993F83614f487a5e8564B2F399A277D20E14",
+        "chainId": 1,
+        "name": "Cifculation",
+        "symbol": "CLC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/CLC.png"
+      },
+      {
+        "address": "0x76Ac229b29002A1d2B2A8cC95bB22275895f19bD",
+        "chainId": 1,
+        "name": "OdinPoC",
+        "symbol": "OdinPoC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/OdinPoC.png"
+      },
+      {
+        "address": "0x04a08d154b2c2f148b5a46464d8c72c8146cb173",
+        "chainId": 1,
+        "name": "PAN",
+        "symbol": "PAN",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/PAN.png"
+      },
+      {
+        "address": "0x04a08d154b2c2f148b5a46464d8c72c8146cb173",
+        "chainId": 1,
+        "name": "PAN",
+        "symbol": "PAN",
+        "decimals": 4,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/PAN.png"
+      },
+      {
+        "address": "0xf2975c28fc21672986d53abb303ed147955f088c",
+        "chainId": 1,
+        "name": "hera.finance",
+        "symbol": "HERA",
+        "decimals": 4,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/HERA.png"
+      },
+      {
+        "address": "0x7abe178405cc7e5ee617b046350646e30eb656dc",
+        "chainId": 1,
+        "name": "FXC",
+        "symbol": "FXC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/FXC.png"
+      },
+      {
+        "address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
+        "chainId": 1,
+        "name": "XMX",
+        "symbol": "XMX",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/XMX.png"
+      },
+      {
+        "address": "0x8f674e59cdd777f2a0a79eb87ed0e9f1932a630c",
+        "chainId": 1,
+        "name": "Third Commodities Digital",
+        "symbol": "TCD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/TCD.png"
       }
     ]
   }
