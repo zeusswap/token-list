@@ -158,14 +158,6 @@
         "chainId": 1,
         "name": "PAN",
         "symbol": "PAN",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/PAN.png"
-      },
-      {
-        "address": "0x04a08d154b2c2f148b5a46464d8c72c8146cb173",
-        "chainId": 1,
-        "name": "PAN",
-        "symbol": "PAN",
         "decimals": 4,
         "logoURI": "https://raw.githubusercontent.com/zeusswap/token-list/master/assets/PAN.png"
       },
